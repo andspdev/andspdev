@@ -47,4 +47,4 @@ I have been a web developer for more than 7 years, and the skills I'm good at fo
 ## 💵 Donate
 <p>If you want to donate funds, you can donate the funds via my PayPal.</p>
 
-[![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/andspay)
+[![Paypal](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)](https://www.paypal.me/andspay)
