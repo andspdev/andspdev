@@ -42,3 +42,9 @@ I have been a web developer for more than 7 years, and the skills I'm good at fo
 [![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)](https://www.adobe.com/products/photoshop.html)
 [![illustrator](https://aleen42.github.io/badges/src/illustrator.svg)](https://www.adobe.com/products/illustrator.html)
 [![Premiere](https://aleen42.github.io/badges/src/premiere.svg)](https://www.adobe.com/products/premiere.html)
+
+
+## 💵 Donate
+<p>If you want to donate funds, you can donate the funds via my PayPal.</p>
+
+[![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/andspay)
