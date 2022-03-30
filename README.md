@@ -38,6 +38,7 @@ I have been a web developer for more than 7 years, and the skills I'm good at fo
 [![Git](https://img.shields.io/badge/Git-%23f34f29?style=flat-square&logoColor=%23FFF&logo=git)](https://git-scm.com/)
 [![NPM](https://img.shields.io/badge/NPM-%23FFFFFF?style=flat-square&logoColor=%23FFF&logo=npm)](https://www.npmjs.com/)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://www.android.com/intl/id_id/)
+[![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
 [![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)](https://www.adobe.com/products/photoshop.html)
 [![illustrator](https://aleen42.github.io/badges/src/illustrator.svg)](https://www.adobe.com/products/illustrator.html)
 [![Premiere](https://aleen42.github.io/badges/src/premiere.svg)](https://www.adobe.com/products/premiere.html)
