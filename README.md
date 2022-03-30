@@ -13,7 +13,7 @@ I'm Andreas Pandu Pamungkas - Full-Stack Web Developer & Content Writer
 
 
 ## 🖥️ My skills 
-I've been a full-stack web developer for over 7 years, and the skills I'm good at for both frontend and backend:
+I have been a web developer for more than 7 years, and the skills I'm good at for both frontend and backend:
 
 #### Front-End
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://id.wikipedia.org/wiki/HTML5)
