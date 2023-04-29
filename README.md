@@ -12,6 +12,10 @@ I'm Andreas Pandu Pamungkas - Full-Stack Web Developer & Content Writer
 [![Website](https://img.shields.io/badge/Website-008cff?style=flat-square&logo=google-chrome&logoColor=white)](https://www.andsp.id)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andspdev&layout=compact&theme=dracula)](https://github.com/andspdev)
+
+![Andspdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=andspdev&theme=dracula)
+
 ## 👀 My skills 
 I have been a web developer for more than 8 years, and the skills I'm good at for both frontend and backend:
 
