@@ -27,6 +27,7 @@ I have been a web developer for more than 8 years, and the skills I'm good at fo
 #### Back-End
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 [![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23dd4814?style=flat-square&logoColor=%23FFF&logo=codeigniter)](https://codeigniter.com/)
+[![Laravel](https://img.shields.io/badge/Laravel-%23EB4432?style=flat-square&logoColor=%23FFF&logo=laravel)](https://laravel.com/)
 
 #### Others
 [![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
