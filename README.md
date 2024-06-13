@@ -27,11 +27,6 @@ I have been a web developer for more than 8 years, and the skills I'm good at fo
 #### Back-End
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 [![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23dd4814?style=flat-square&logoColor=%23FFF&logo=codeigniter)](https://codeigniter.com/)
-[![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/en/)
-[![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat-square)](https://expressjs.com/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)](https://www.java.com/en/)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
 #### Others
 [![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
